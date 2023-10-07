@@ -1,6 +1,6 @@
 # Slinding - Armazene e Baixe Slides
 
-![Slinding]📊
+!Slinding 📊
 
 ## Recursos Principais
 
